@@ -4,7 +4,7 @@
 #include "file.h"
 #include "game.h"
 
-//test
+//test1
 // Affiche l’écran de crédits avec "credits.png"
 void afficherCredits(SDL_Renderer *renderer) {
     SDL_Texture *creditTexture = loadImage("credits.png", renderer);
